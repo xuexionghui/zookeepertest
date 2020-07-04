@@ -1,0 +1,12 @@
+*.iml
+.idea/
+*.log
+*.zip
+bootstrap.yml
+*.jar
+*target*
+*mvnw*
+.mvn
+.settings
+.project
+.classpath
